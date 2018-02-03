@@ -1,4 +1,1 @@
-# Integration
-testing hook
-
- ^^ it works. ~Kashi
+Only files in src will be uploaded.
